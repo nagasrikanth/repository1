@@ -8,7 +8,10 @@ public class GeeksforGeeks {
         list.add(22); 
         list.add(33); 
         list.add(44); 
-        list.add(55); 
+        list.add(55);
+        
+        System.out.println("class object 33sfdas32" + abc);
   
+        
     }
 } 
