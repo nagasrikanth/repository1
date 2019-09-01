@@ -21,8 +21,10 @@ public class CollectionSort {
 		list = sortCollection(list);
 		list.forEach(e -> System.out.println(e));
 
-		Class abc = Class.forName("First.CollectionSortsssssssssssssssxdd12344444444");
+		Class abc = Class.forName("First.CollectionSortsssssssssssssssxdd12344444eaesfdsaddsfafdas444");
 		System.out.println("class object " + abc);
+		System.out.println("class object1 " + abc);
+		System.out.println("class object 3332" + abc);
 		Field field = abc.getField("abc");
 		System.out.println("Field" + field);
 		System.out.println("Field Name" + field.getName());
